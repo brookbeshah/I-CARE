@@ -1,0 +1,7 @@
+{
+  "name": "I-Care Mini-App",
+  "description": "A high-fidelity donation platform for Ethiopia's Telebirr SuperApp, featuring multi-language support, NGO management, and recurring donation tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
